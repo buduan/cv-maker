@@ -2,6 +2,9 @@
 
 基于Vue 3和Cherry Markdown的现代化简历制作应用，支持实时编辑和预览。
 
+Trello看板: 
+https://trello.com/invite/b/685e251c9ef8b2cbebe26e0a/ATTI039c0e84c6f2de49a8ca85e3dcd16426CC80E1D6/🚀-cv-maker
+
 ## 功能特性
 
 ### 🎨 强大的编辑器
